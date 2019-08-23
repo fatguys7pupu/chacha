@@ -1,0 +1,19 @@
+{
+  "name": "chacha",
+  "version": "1.0.0",
+  "description": "it's chacha project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatguys7pupu/chacha.git"
+  },
+  "author": "tann & geo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatguys7pupu/chacha/issues"
+  },
+  "homepage": "https://github.com/fatguys7pupu/chacha#readme"
+}
